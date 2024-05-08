@@ -1,1 +1,6 @@
 For the specific locations of Gaofen-2 and Landsat-8 remote sensing image data sets, please see the readme.md file.
+The landsat-8 data set shares two sets of formats, among which we use the tif format for this study.
+
+There are three folders (xxx_Image, Train and Val) after the dataset is unzipped, where xxx_Image is not scaled.Train and Val 
+are the xxx_Image divided into training and validation sets according to the ratio of 8:2, which you can choose according to your needs.
+
