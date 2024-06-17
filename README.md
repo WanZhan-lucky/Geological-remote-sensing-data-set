@@ -1,3 +1,3 @@
 # GERS Datasets
-## [Gaofen-2](https://drive.google.com/drive/folders/1nreHxWbklzD08qDpdjwplOQX3sd7XVrM?usp=sharing)
-## [Landsat-8](https://drive.google.com/drive/folders/1GbSsFchvMaqJv4fR0CTzn7xbdaf3UPaD?usp=sharing)
+## [Gaofen-2](https://drive.google.com/file/d/1JZY6SE3Lg2ISibkqTXw3FEqJHOgY8jNM/view?usp=drive_link)
+## [Landsat-8](https://drive.google.com/file/d/1DPAoa2F4CWohuumefHioynwzpk43-VZk/view?usp=drive_link)
